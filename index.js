@@ -20,3 +20,10 @@ function inc(n) {
   n
   return n
 }
+
+function dec(n) {
+  var number = n
+  n--
+  n
+  return n
+}
