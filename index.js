@@ -30,4 +30,5 @@ function dec(n) {
 
 function makeInt(n) {
   parseFloat(n)
+  return n
 }
